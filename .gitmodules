@@ -1,0 +1,6 @@
+[submodule "Delivery-User"]
+	path = Delivery-User
+	url = git@github.com:may42day/User-Delivery-service.git
+[submodule "Delivery-Order"]
+	path = Delivery-Order
+	url = git@github.com:may42day/Order-Delivery-service.git
